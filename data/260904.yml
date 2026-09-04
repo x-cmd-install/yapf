@@ -7,7 +7,7 @@ about:
   head: 1200509
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:39:45Z
+  collectedAt: 2026-09-04T20:54:19Z
 timeline:
   created: 2015-03-18
   lastCommit: 2025-02-10
@@ -82,6 +82,59 @@ total:
   openIssue: 391
   commit: 1355
 ---
+path: /home/runner/.x-repo/github.com/google/yapf
+collectedAt: 2026-09-04T20:54:20Z
+loc:
+  Python:
+    code: 22235
+    comments: 2111
+    blanks: 3004
+    files: 73
+  Toml:
+    code: 54
+    comments: 1
+    blanks: 8
+    files: 1
+  VimScript:
+    code: 49
+    comments: 23
+    blanks: 2
+    files: 2
+  Sh:
+    code: 33
+    comments: 39
+    blanks: 11
+    files: 1
+  Ini:
+    code: 15
+    comments: 1
+    blanks: 3
+    files: 1
+  ReStructuredText:
+    code: 6
+    comments: 0
+    blanks: 3
+    files: 1
+  Autoconf:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1528
+    blanks: 453
+    files: 6
+  Text:
+    code: 0
+    comments: 240
+    blanks: 40
+    files: 2
+total:
+  code: 22654
+  comments: 3951
+  blanks: 3547
+  files: 88
 ---
 date: "2026-08-24"
 repo:
