@@ -1,0 +1,58 @@
+about:
+  description: A formatter for Python files
+  license: Apache-2.0
+  homepage: 
+  head: 1200509
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T04:42:23Z
+timeline:
+  created: 2015-03-18
+  lastCommit: 2025-02-10
+  lastRelease: ?
+popularity:
+  star: 13984
+  watcher: 197
+  fork: 904
+  release: 0
+  contributor: 151
+  pullRequest: 139
+  issue: 865
+language:
+  Python: 801920
+  Vim Script: 2859
+  Shell: 2784
+totalLine: 807563
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 2
+    commit: 0
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 0
+    openPR: 8
+    closedIssue: 2
+    openIssue: 7
+    commit: 0
