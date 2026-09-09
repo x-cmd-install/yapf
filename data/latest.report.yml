@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:32:26Z
+  collectedAt: 2026-09-09T19:47:13Z
 timeline:
   created: 2015-03-18
   lastCommit: 2025-02-10
@@ -21,7 +21,7 @@ popularity:
   release: 0
   contributor: 140
   pullRequest: 434
-  issue: 865
+  issue: 866
 language:
   Python: 801920
   Vim Script: 2859
@@ -34,7 +34,7 @@ recent:
     mergedPR: 0
     openPR: 2
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last60d:
     since: 2026-07-11
@@ -42,7 +42,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 0
-    openIssue: 2
+    openIssue: 3
     commit: 0
   last90d:
     since: 2026-06-11
@@ -50,7 +50,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 0
-    openIssue: 2
+    openIssue: 3
     commit: 0
   last180d:
     since: 2026-03-13
@@ -58,7 +58,7 @@ recent:
     mergedPR: 0
     openPR: 7
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 0
   last360d:
     since: 2025-09-14
@@ -66,7 +66,7 @@ recent:
     mergedPR: 0
     openPR: 8
     closedIssue: 2
-    openIssue: 7
+    openIssue: 8
     commit: 0
   last720d:
     since: 2024-09-19
@@ -74,18 +74,18 @@ recent:
     mergedPR: 7
     openPR: 12
     closedIssue: 4
-    openIssue: 21
+    openIssue: 22
     commit: 9
 total:
   release: 0
   mergedPR: 294
   openPR: 28
   closedIssue: 474
-  openIssue: 391
+  openIssue: 392
   commit: 1355
 ---
 path: /home/runner/.x-repo/github.com/google/yapf
-collectedAt: 2026-09-09T05:32:28Z
+collectedAt: 2026-09-09T19:47:14Z
 loc:
   Python:
     code: 22235
