@@ -41,7 +41,7 @@ x install yapf
 
 ## 流行度
 
-- **Star**: 13,985 · **Fork**: 904 · **开放 issue**: 866 · **贡献者**: 140
+- **Star**: 13,984 · **Fork**: 904 · **开放 issue**: 866 · **贡献者**: 140
 
 ## 累计统计
 
@@ -58,21 +58,6 @@ x install yapf
 | 360d | 2025-09-16 | 0 | 0 | 10 | 2 | 7 | 0 |
 | last720d | 2024-09-21 | 0 | 7 | 14 | 4 | 22 | 9 |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/yapf) 上共有 **51** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.43.0` | ✅ latest |
-| Debian 14 | `0.43.0` | ✅ latest |
-| Debian 13 | `0.40.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.43.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.33.0` | ⚠️ outdated |
-| Arch | `0.43.0` | ✅ latest |
-| Homebrew | `0.43.0` | ✅ latest |
-| Nix unstable | `0.43.0` | ✅ latest |
-
 ## 改进这些数据
 
 yapf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `yapf` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -82,4 +67,4 @@ yapf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:18:53Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:37:38Z._
