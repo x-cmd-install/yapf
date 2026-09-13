@@ -41,22 +41,37 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,984 · **Forks**: 904 · **Open issues**: 866 · **Contributors**: 140
+- **Stars**: 13,986 · **Forks**: 904 · **Open issues**: 866 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 30 · **Closed issues**: 474 · **Open issues**: 392 · **Commits**: 1355
+- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 28 · **Closed issues**: 474 · **Open issues**: 392 · **Commits**: 1355
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 8 | 0 | 3 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 8 | 0 | 3 | 0 |
-| last180d | 2026-03-15 | 0 | 0 | 9 | 0 | 5 | 0 |
-| 360d | 2025-09-16 | 0 | 0 | 10 | 2 | 7 | 0 |
-| last720d | 2024-09-21 | 0 | 7 | 14 | 4 | 22 | 9 |
+| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 6 | 0 | 3 | 0 |
+| last180d | 2026-03-17 | 0 | 0 | 7 | 0 | 5 | 0 |
+| 360d | 2025-09-18 | 0 | 0 | 8 | 2 | 7 | 0 |
+| last720d | 2024-09-23 | 0 | 6 | 12 | 4 | 22 | 9 |
+
+## Distribution status
+
+Reported by **51** distros on [repology.org](https://repology.org/project/yapf). **20** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.43.0` | ✅ latest |
+| Debian 14 | `0.43.0` | ✅ latest |
+| Debian 13 | `0.40.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.43.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `0.33.0` | ⚠️ outdated |
+| Arch | `0.43.0` | ✅ latest |
+| Homebrew | `0.43.0` | ✅ latest |
+| Nix unstable | `0.43.0` | ✅ latest |
 
 ## Improve this data
 
@@ -67,4 +82,4 @@ Install metadata for yapf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:37:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:03Z._
