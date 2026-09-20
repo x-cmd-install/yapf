@@ -4,7 +4,7 @@
 
 A formatter for Python files
 
-![yapf](https://repo.x-cmd.io/yapf.svg)
+[![x-cmd/install — yapf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yapf.svg)](https://x-cmd.com/install/yapf)
 
 ## Install
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,987 · **Forks**: 905 · **Open issues**: 866 · **Contributors**: 140
+- **Stars**: 13,986 · **Forks**: 905 · **Open issues**: 866 · **Contributors**: 140
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 6 | 0 | 3 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 7 | 0 | 4 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 8 | 2 | 7 | 0 |
-| last720d | 2024-09-28 | 0 | 6 | 12 | 4 | 21 | 9 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 6 | 0 | 3 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 7 | 0 | 4 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 8 | 2 | 7 | 0 |
+| last720d | 2024-09-30 | 0 | 5 | 12 | 4 | 21 | 9 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for yapf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:34:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:42:21Z._
