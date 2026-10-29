@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,987 · **Forks**: 913 · **Open issues**: 868 · **Contributors**: 140
+- **Stars**: 13,987 · **Forks**: 914 · **Open issues**: 868 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 40 · **Closed issues**: 476 · **Open issues**: 392 · **Commits**: 1355
+- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 41 · **Closed issues**: 476 · **Open issues**: 392 · **Commits**: 1355
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 8 | 0 | 1 | 0 |
-| last60d | 2026-08-29 | 0 | 0 | 13 | 0 | 2 | 0 |
-| 90d | 2026-07-30 | 0 | 0 | 15 | 0 | 3 | 0 |
-| last180d | 2026-05-01 | 0 | 0 | 18 | 1 | 4 | 0 |
-| 360d | 2025-11-02 | 0 | 0 | 20 | 2 | 7 | 0 |
-| last720d | 2024-11-07 | 0 | 1 | 24 | 4 | 20 | 3 |
+| 30d | 2026-09-29 | 0 | 0 | 8 | 0 | 1 | 0 |
+| last60d | 2026-08-30 | 0 | 0 | 14 | 0 | 2 | 0 |
+| 90d | 2026-07-31 | 0 | 0 | 16 | 0 | 3 | 0 |
+| last180d | 2026-05-02 | 0 | 0 | 19 | 1 | 4 | 0 |
+| 360d | 2025-11-03 | 0 | 0 | 21 | 2 | 7 | 0 |
+| last720d | 2024-11-08 | 0 | 1 | 25 | 4 | 20 | 3 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for yapf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:16:01Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:24:32Z._
