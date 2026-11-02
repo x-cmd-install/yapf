@@ -41,26 +41,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,987 · **Forks**: 915 · **Open issues**: 868 · **Contributors**: 140
+- **Stars**: 13,987 · **Forks**: 914 · **Open issues**: 868 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 42 · **Closed issues**: 476 · **Open issues**: 392 · **Commits**: 1355
+- **Releases**: 0 · **Merged PRs**: 294 · **Open PRs**: 43 · **Closed issues**: 476 · **Open issues**: 392 · **Commits**: 1355
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 8 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 15 | 0 | 2 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 15 | 0 | 3 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 20 | 1 | 4 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 22 | 2 | 7 | 0 |
-| last720d | 2024-11-11 | 0 | 1 | 26 | 4 | 20 | 3 |
+| 30d | 2026-10-03 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 16 | 0 | 2 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 16 | 0 | 3 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 21 | 1 | 4 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 23 | 2 | 7 | 0 |
+| last720d | 2024-11-12 | 0 | 1 | 27 | 4 | 20 | 3 |
 
 ## Distribution status
 
-Reported by **49** distros on [repology.org](https://repology.org/project/yapf). **20** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/yapf). **18** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for yapf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:39:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:53:50Z._
