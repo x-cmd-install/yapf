@@ -1,29 +1,18 @@
-- repo: apertis_v2023
-  subrepo: v2023/development
+- repo: parrot
+  subrepo: parrot/main
   srcname: yapf
   binnames:
     - python3-yapf
     - yapf3
   visiblename: yapf
-  version: 0.30.0
-  origversion: 0.30.0-1co0
+  version: 0.40.2
+  origversion: 0.40.2-3
   status: outdated
   maintainers:
-    - ana@netstat.org.uk
     - team+python@tracker.debian.org
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.32.0
-  origversion: 0.32.0-1+apertis0
-  status: outdated
-  maintainers:
     - ana@netstat.org.uk
-    - team+python@tracker.debian.org
+  categories:
+    - misc
 - repo: apertis_v2025
   subrepo: v2025/development
   srcname: yapf
@@ -50,6 +39,43 @@
   maintainers:
     - team+python@tracker.debian.org
     - ana@netstat.org.uk
+- repo: artix
+  subrepo: world
+  srcname: yapf
+  binname: yapf
+  visiblename: yapf
+  version: 0.43.0
+  origversion: 0.43.0-3
+  status: newest
+  summary: Python style guide checker
+  licenses:
+    - Apache-2.0
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.32.0
+  origversion: 0.32.0-1+apertis0
+  status: outdated
+  maintainers:
+    - ana@netstat.org.uk
+    - team+python@tracker.debian.org
+- repo: apertis_v2023
+  subrepo: v2023/development
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.30.0
+  origversion: 0.30.0-1co0
+  status: outdated
+  maintainers:
+    - ana@netstat.org.uk
+    - team+python@tracker.debian.org
 - repo: apertis_v2027
   subrepo: v2027dev1/development
   srcname: yapf
@@ -70,17 +96,6 @@
   visiblename: yapf
   version: 0.43.0
   origversion: 0.43.0-3
-  status: newest
-  summary: Python style guide checker
-  licenses:
-    - Apache-2.0
-- repo: artix
-  subrepo: world
-  srcname: yapf
-  binname: yapf
-  visiblename: yapf
-  version: 0.43.0
-  origversion: 0.43.0-2
   status: newest
   summary: Python style guide checker
   licenses:
@@ -393,21 +408,6 @@
     - misc
 - repo: parrot
   subrepo: parrot-updates/main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.40.2
-  origversion: 0.40.2-3
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - ana@netstat.org.uk
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
   srcname: yapf
   binnames:
     - python3-yapf
