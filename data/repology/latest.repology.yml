@@ -1,3 +1,29 @@
+- repo: parabola
+  subrepo: extra
+  srcname: yapf
+  binname: yapf
+  visiblename: yapf
+  version: 0.43.0
+  origversion: 0.43.0-3
+  status: newest
+  summary: Python style guide checker
+  licenses:
+    - Apache-2.0
+- repo: pardus_21
+  subrepo: main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.30.0
+  origversion: 0.30.0-1
+  status: outdated
+  maintainers:
+    - ana@netstat.org.uk
+    - team+python@tracker.debian.org
+  categories:
+    - misc
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: yapf
@@ -85,105 +111,6 @@
   summary: Python style guide checker
   licenses:
     - Apache-2.0
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: outdated
-  maintainers:
-    - ana@netstat.org.uk
-    - team+python@tracker.debian.org
-  categories:
-    - python
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.40.2
-  origversion: 0.40.2-3
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - ana@netstat.org.uk
-  categories:
-    - python
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.32.0
-  origversion: 0.32.0-1
-  status: outdated
-  maintainers:
-    - ana@netstat.org.uk
-    - team+python@tracker.debian.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.40.2
-  origversion: 0.40.2-3
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - ana@netstat.org.uk
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.43.0
-  origversion: 0.43.0-2
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - ana@netstat.org.uk
-  categories:
-    - misc
-- repo: slackbuilds
-  srcname: python/yapf
-  visiblename: python/yapf
-  version: 0.43.0
-  origversion: null
-  status: newest
-  maintainers:
-    - tonus1@free.fr
-  categories:
-    - python
-- repo: solus
-  srcname: yapf
-  binname: yapf
-  visiblename: yapf
-  version: 0.43.0
-  origversion: null
-  status: newest
-  summary: A formatter for Python files
-  maintainers:
-    - josephriches@gmail.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - programming.tools
 - repo: debian_11
   subrepo: bullseye/main
   srcname: yapf
@@ -259,21 +186,6 @@
     - ana@netstat.org.uk
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: yapf
-  binnames:
-    - python-yapf
-    - yapf
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.25.0
-  origversion: 0.25.0-2.1
-  status: outdated
-  maintainers:
-    - ana@netstat.org.uk
-    - python-modules-team@lists.alioth.debian.org
 - repo: deepin_23
   subrepo: main
   srcname: yapf
@@ -464,34 +376,8 @@
     - langston.barrett@gmail.com
   licenses:
     - Apache-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: yapf
-  binname: yapf
-  visiblename: yapf
-  version: 0.43.0
-  origversion: 0.43.0-3
-  status: newest
-  summary: Python style guide checker
-  licenses:
-    - Apache-2.0
-- repo: pardus_21
-  subrepo: main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: outdated
-  maintainers:
-    - ana@netstat.org.uk
-    - team+python@tracker.debian.org
-  categories:
-    - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: yapf
   binnames:
     - python3-yapf
@@ -506,7 +392,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: yapf
   binnames:
     - python3-yapf
@@ -537,6 +423,105 @@
     - python-modules-team@lists.alioth.debian.org
   categories:
     - python
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.30.0
+  origversion: 0.30.0-1
+  status: outdated
+  maintainers:
+    - ana@netstat.org.uk
+    - team+python@tracker.debian.org
+  categories:
+    - python
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.40.2
+  origversion: 0.40.2-3
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - ana@netstat.org.uk
+  categories:
+    - python
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.32.0
+  origversion: 0.32.0-1
+  status: outdated
+  maintainers:
+    - ana@netstat.org.uk
+    - team+python@tracker.debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.40.2
+  origversion: 0.40.2-3
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - ana@netstat.org.uk
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: yapf
+  binnames:
+    - python3-yapf
+    - yapf3
+  visiblename: yapf
+  version: 0.43.0
+  origversion: 0.43.0-2
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - ana@netstat.org.uk
+  categories:
+    - misc
+- repo: slackbuilds
+  srcname: python/yapf
+  visiblename: python/yapf
+  version: 0.43.0
+  origversion: null
+  status: newest
+  maintainers:
+    - tonus1@free.fr
+  categories:
+    - python
+- repo: solus
+  srcname: yapf
+  binname: yapf
+  visiblename: yapf
+  version: 0.43.0
+  origversion: null
+  status: newest
+  summary: A formatter for Python files
+  maintainers:
+    - josephriches@gmail.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - programming.tools
 - repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: yapf
