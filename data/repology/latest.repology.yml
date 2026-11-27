@@ -377,21 +377,6 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
-  srcname: yapf
-  binnames:
-    - python3-yapf
-    - yapf3
-  visiblename: yapf
-  version: 0.40.2
-  origversion: 0.40.2-3
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - ana@netstat.org.uk
-  categories:
-    - misc
-- repo: parrot
   subrepo: parrot-updates/main
   srcname: yapf
   binnames:
@@ -406,23 +391,21 @@
     - ana@netstat.org.uk
   categories:
     - misc
-- repo: pureos_amber
-  subrepo: amber/main
+- repo: parrot
+  subrepo: parrot/main
   srcname: yapf
   binnames:
-    - python-yapf
     - python3-yapf
-    - yapf
     - yapf3
   visiblename: yapf
-  version: 0.25.0
-  origversion: 0.25.0-2.1
+  version: 0.40.2
+  origversion: 0.40.2-3
   status: outdated
   maintainers:
+    - team+python@tracker.debian.org
     - ana@netstat.org.uk
-    - python-modules-team@lists.alioth.debian.org
   categories:
-    - python
+    - misc
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: yapf
